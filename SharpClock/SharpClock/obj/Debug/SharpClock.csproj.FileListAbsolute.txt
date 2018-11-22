@@ -1,0 +1,16 @@
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\bin\Debug\SharpClock.exe.config
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\bin\Debug\SharpClock.exe
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\bin\Debug\SharpClock.pdb
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.csprojResolveAssemblyReference.cache
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.csproj.GenerateResource.Cache
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.exe
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.pdb
+U:\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.CLOCK.resources
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\bin\Debug\SharpClock.exe.config
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\bin\Debug\SharpClock.exe
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\bin\Debug\SharpClock.pdb
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.csprojResolveAssemblyReference.cache
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.CLOCK.resources
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.csproj.GenerateResource.Cache
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.exe
+\\calvijncollege.nl\edu\Homedirs\Leerlingen\15547\Documents\SharpDevelop Projects\SharpClock\SharpClock\obj\Debug\SharpClock.pdb
